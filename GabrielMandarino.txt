@@ -1,0 +1,11 @@
+# Gabriel Mandarino
+
+**Nome:** Gabriel Neves Mandarino Torres
+**GitHub:** GMandarino  
+**Curso:** Ciência da Computação – UFRJ  
+
+## Sobre a atividade
+Estou praticando Git e GitHub: fork, branches seguindo padrão `tipo/escopo/nome/descrição`, commits padronizados e PR. Achei interessante aprender como manter o histórico organizado.
+
+## Expectativas
+Quero evoluir com controle de versões e quem sabe me aprofundar em integração contínua e automação em projetos futuros.
