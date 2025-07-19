@@ -1,0 +1,1 @@
+const variavel = "Contribuição de Samuel Sampaio Diniz à atividade do TT/EJCM";
